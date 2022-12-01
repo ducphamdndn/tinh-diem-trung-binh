@@ -1,1 +1,0 @@
-# tinh-diem-trung-binh
