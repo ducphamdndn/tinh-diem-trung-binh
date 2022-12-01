@@ -1,0 +1,14 @@
+begin
+     input nhap diem sinh vien
+     a<=100
+     if (a>=75)
+     output "loai a"
+     if (a<75 va a>=60)
+     output "loai b"
+     if (a<60 va a>=45)
+     output "loai c"
+     if (a<45 va a>=35)
+     output "loai d"
+     else
+     output "loai e"
+end
